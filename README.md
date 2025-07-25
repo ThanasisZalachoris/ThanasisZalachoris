@@ -84,7 +84,7 @@ Thesis: *Enhancing Business Intelligence via Data Visualization in Power BI*
 
 ### 📫 Let’s Connect  
 - LinkedIn: [linkedin.com/in/thanasis-zalachoris-0945ab1b8](https://www.linkedin.com/in/thanasis-zalachoris-0945ab1b8/)
-- GitHub: [[github.com/your-github-username](#)  ](https://github.com/ThanasisZalachoris)
+- GitHub: (https://github.com/ThanasisZalachoris)
 - Email: thanasiszal@gmail.com
 
 > “Building tourism intelligence tools through data and visual storytelling.”
