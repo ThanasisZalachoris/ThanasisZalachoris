@@ -1,92 +1,63 @@
-# 👋 Hi, I’m Athanasios Zalachoris  
-**Tourism & Urban Metrics Developer | Machine Learning Practitioner | Power BI Expert**  
-📍 Based in Corfu, Greece | 🎓 MSc in Digital Innovation | MBA in Finance | 🎯 Strategic Thinker  
+# 👋 Hi, I'm Thanasis Zalachoris
+
+I'm a data analyst and technology strategist with a background in Business Intelligence, Machine Learning, and Digital Innovation.  
+I specialize in delivering high-impact data-driven solutions through a blend of analytical thinking, visual storytelling, and real-world business understanding.
+
+🎯 **Mission**: To build intelligent, useful tools that solve real problems and help shape smarter decisions — especially in contexts like tourism, health, and urban development.
+
+📍 Based in Greece | 📚 Lifelong learner | 🔍 Strategic thinker
 
 ---
 
-## 🧠 About Me  
+## 🛠️ Tech Stack
 
-I’m a data-driven problem solver with a multidisciplinary academic background and a strong focus on **analytics, business intelligence, and urban-tourism innovation**.  
-Currently developing **Tourism Strain Index (TSI)**, an original MVP that captures overtourism indicators for regional planning.
-
-My skillset combines **machine learning**, **data storytelling**, and **real-world applications** using tools like Python, Power BI, and Streamlit.
-
-Always seeking ways to bridge data with decision-making – one dashboard, one model at a time.
+- **Languages**: Python, SQL, DAX, M
+- **Tools**: Power BI, Jupyter, Pandas, scikit-learn, Streamlit, Git
+- **Concepts**: Machine Learning, Classification & Regression, Exploratory Data Analysis, Data Visualization, Time Series
+- **Other**: Business Strategy, Economic Insight, Tourism Analytics
 
 ---
 
-## 💼 Selected Projects  
+## 🚀 Featured Projects
 
-### 🧭 Tourism Strain Index MVP (2025)  
-*Corfu-focused data platform highlighting overtourism pressure metrics.*  
-- Developed with Streamlit & Python  
-- Features early-stage indices: Digital Readiness, Population Flow, Visitor Saturation  
-- Combines storytelling with local planning challenges  
+### 📊 [Power BI Capstone – Business Intelligence & Data Storytelling](https://github.com/ThanasisZalachoris/power-bi-business-intelligence-capstone)
+> A data storytelling project using Power BI, solving complex business questions via interactive dashboards and advanced DAX.  
+> 💡 Focus: Market insights, executive reporting, KPI optimization.
 
-🔗 _[Demo (private preview)]_  
+📎 [project-summary.pdf](https://github.com/ThanasisZalachoris/power-bi-business-intelligence-capstone/blob/main/project-summary.pdf)
 
 ---
 
-### 🔧 Bulldozer Price Prediction – Regression ML (2024)  
-Predictive model for used heavy equipment prices using tabular data.  
-- Full end-to-end project pipeline  
-- Data cleaning, feature engineering, XGBoost model tuning  
-- Final evaluation with R² and MAE metrics  
-
-
+### 🤖 [Bluebook Bulldozer Price Regression](https://github.com/ThanasisZalachoris/bulldozer-price-regression)
+> A full ML pipeline for predicting auction prices of heavy equipment.  
+> 📦 Includes preprocessing, modeling, evaluation, and interpretability.
 
 ---
 
-### ❤️ Heart Disease Classification – Binary ML (2024)  
-A supervised learning pipeline to classify patients with cardiovascular disease.  
-- Sklearn models: Logistic Regression, KNN, Decision Trees  
-- Visual data exploration (EDA) and ROC-AUC validation  
-- Healthcare-focused model deployment plan  
-
-
+### ❤️ [Heart Disease Classification (ML)](https://github.com/ThanasisZalachoris/heart-disease-classification)
+> A supervised classification project using heart health indicators to predict disease presence.  
+> 📈 Explores Random Forest, Logistic Regression, and data preprocessing techniques.
 
 ---
 
-### 📊 Power BI Capstone – Business Intelligence Project (2023)  
-Thesis: *Enhancing Business Intelligence via Data Visualization in Power BI*  
-- Real business use-case with KPIs, DAX measures & strategic dashboarding  
-- Delivered as part of MSc in Informatics  
-- Focus on usability, decision-making, and visual storytelling  
+### 🌍 [Tourism Strain Index – Corfu Dashboard (MVP)](https://github.com/ThanasisZalachoris/corfu-tourism-strain-index)
+> A prototype dashboard built with Streamlit to measure and visualize tourism saturation metrics in Corfu.  
+> 📊 Combines indicators like population flows, accommodation capacity, and digital readiness.
 
-
+🧪 Still in MVP stage. No preview images released yet.
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 📬 Get in touch
 
-- **Languages**: Python, SQL, DAX  
-- **Data**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **BI/Visualization**: Power BI, Streamlit, Plotly  
-- **Machine Learning**: XGBoost, Logistic Regression, Classification, Regression  
-- **Version Control**: Git, GitHub  
-- **Other**: Jupyter, Excel, VBA, Business Reporting  
+- [LinkedIn](https://www.linkedin.com/in/thanasiszalachoris/)
+- [GitHub](https://github.com/ThanasisZalachoris)
+- Email: **thanasiszal@gmail.com**
 
 ---
 
-## 🎓 Academic Background  
+### 🧠 Currently exploring
+- Tourism intelligence platforms  
+- Public data APIs  
+- Ethical AI applications in small communities  
 
-- **MSc in Digital Applications & Innovation** – Ionian University (Dept. of Informatics)  
-- **MBA in Finance** – University of Macedonia  
-- **BSc in Ichthyology & Hydrobiology** – University of Thessaly  
-- Currently pursuing: **BSc in Tourism Economics** – Ionian University  
-
----
-
-## 🚀 What’s Next?  
-- Publish Tourism Strain Index as a public data tool  
-- Expand machine learning portfolio with urban, environmental & behavioral datasets  
-- Contribute to open-source tourism + sustainability projects  
-
----
-
-### 📫 Let’s Connect  
-- LinkedIn: [linkedin.com/in/thanasis-zalachoris-0945ab1b8](https://www.linkedin.com/in/thanasis-zalachoris-0945ab1b8/)
-- GitHub: (https://github.com/ThanasisZalachoris)
-- Email: thanasiszal@gmail.com
-
-> “Building tourism intelligence tools through data and visual storytelling.”
