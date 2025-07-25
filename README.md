@@ -11,6 +11,8 @@ Currently developing **Tourism Strain Index (TSI)**, an original MVP that captur
 
 My skillset combines **machine learning**, **data storytelling**, and **real-world applications** using tools like Python, Power BI, and Streamlit.
 
+Always seeking ways to bridge data with decision-making – one dashboard, one model at a time.
+
 ---
 
 ## 💼 Selected Projects  
